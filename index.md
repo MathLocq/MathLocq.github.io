@@ -6,3 +6,4 @@
 [les 4](https://github.com/MathLocq/les-4.git)  
 [les 5](https://github.com/MathLocq/les-5.git)  
 [les 6](https://github.com/MathLocq/les-6.git)  
+[les 7](https://github.com/MathLocq/les-7.git)  
